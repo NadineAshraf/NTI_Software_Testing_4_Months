@@ -1,5 +1,5 @@
 # NTI_Software_Testing_4_Months
-**Task 1**
+**Task 1** 
 ___________________________________
 📘 Business Requirements Document (BRD) – Library Management System
 ________________________________________
@@ -149,3 +149,14 @@ As a librarian
 I want to see a list of overdue books
 So that I can contact members.
 
+# Implementation
+**Team work by members:**
+- Nadine Ashraf.
+- Amira Samy.
+- Habeba Abdelhady.
+- Karima Ayman.
+- Maria Fekry
+  
+**The work is done on JIRA tool**
+
+  **Link:** https://habebaabdelhady54-1770709554543.atlassian.net/projects/LMS?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/v2/testCase/NTI-T65
