@@ -2,6 +2,7 @@
 
 # Java
 **Link:** https://www.notion.so/Java-Methods-3188145afded80bf8ce2f8c2323b3b17
+https://www.notion.so/Java-Exercises-Data-Structures-for-Test-Automation-30d8145afded80f4bf69f058de3b7d9e#31d8145afded808fb201fc46f55caacc
 
 **Task 1** 
 ___________________________________
